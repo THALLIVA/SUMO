@@ -1,0 +1,10 @@
+<configuration>
+<input>
+<net-file value="mumbai_ghatkopar.net.xml"/>
+<route-files value="mumbai_ghatkopar.rou.xml"/>
+</input>
+<time>
+<begin value="0"/>
+<end value="2000"/>
+</time>
+</configuration>
